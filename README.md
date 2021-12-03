@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tlotup
+- 👀 I’m interested in web.
+- 🌱 I’m currently learning java, C#, PHP, and the framework SYMFONY.
+- 💞️ I’m looking to collaborate on my school projects.
+- 📫 How to reach me : dont reach me now.
